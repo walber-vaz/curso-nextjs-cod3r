@@ -16,6 +16,10 @@ NextJS é um framework para ReactJS que permite a renderização de páginas no 
 - API Routes
 - Fullstack
 
+## Oque é um framework?
+
+Um framework é um conjunto de ferramentas que facilitam o desenvolvimento de um software. Um framework pode ser composto por bibliotecas, APIs, linguagens de programação, etc.
+
 ## Como criar um projeto com NextJS?
 
 Para criar um projeto com NextJS, basta executar o seguinte comando:
