@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Titulo from '../components/Titulo'
+import Estilo from '../components/Estilo'
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
 
       <main>
         <Titulo title={"Ola, Next"} subTitle={"Cod3r cursos"} />
+        <Estilo numero={1} />
       </main>
     </div>
   )
